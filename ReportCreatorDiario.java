@@ -2,6 +2,6 @@ public class ReportCreatorDiario extends ReportCreator {
 
     @Override
     protected Report createReport() {
-        return new DailyReport();
+        return new ReportDiario();
     }
 }
