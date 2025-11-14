@@ -1,4 +1,4 @@
-public class RelatorioSemanal implements Report {
+public class WeeklyReport implements Report {
 
     @Override
     public void prepareData() {
